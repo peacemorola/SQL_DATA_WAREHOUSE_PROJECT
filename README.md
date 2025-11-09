@@ -6,6 +6,8 @@ Building a modern data warehouse with Postgre SQL, including ETL processes, data
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+![Database Architecture](img/Architecture.io.png)
+
 <img width="1030" height="630" alt="Architecture drawio" src="https://github.com/user-attachments/assets/9527b96c-1d33-433d-b4e7-0b2c59750aa3" />
 
 ## Project Requirements
