@@ -1,7 +1,9 @@
 # SQL_DATA_WAREHOUSE_PROJECT
 
 Welcome to the **Data warehouse and analytics Project** repository! ✨
+
 Building a modern data warehouse with Postgre SQL, including ETL processes, data modelling and analytics. 
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 <img width="1030" height="630" alt="Architecture drawio" src="https://github.com/user-attachments/assets/9527b96c-1d33-433d-b4e7-0b2c59750aa3" />
@@ -13,7 +15,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ### Objective
 Develop a modern data warehouse using Postgre SQL to consolidate sales data, enabling analytical reporting and informed decision making.
 
-#### Specifications
+### Specifications
 **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
 
 **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
